@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- I'm an **Ai Engineer** passionate about building result driven ai solutions for real world projects. I have a good background in data science and machine learning. <br><br>- Known for a strong work ethic, adaptability, and enthusiasm for learning new technologies. Seeking opportunities to apply skills in a dynamic and collaborative environment, aiming to make meaningful contributions to impactful projects.</p>
+<p align="left">- I'm an **Ai Engineer** passionate about building result driven ai solutions for real world projects. I have a good background in data science, machine learning, Llms and RAG. <br><br>- Known for a strong work ethic, adaptability, and enthusiasm for learning new technologies. Seeking opportunities to apply skills in a dynamic and collaborative environment, aiming to make meaningful contributions to impactful projects.</p>
 
 ###
 
@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-<p align="left">- **Applied Machine Learning & Deep Learning systems**  <br>  From experimentation to end-to-end implementation<br>- **Generative AI solutions**  <br>  LLM-powered applications, AI assistants, and knowledge-driven tools<br>- **Data-driven applications**  <br>  Tools that convert insights into actionable outcomes</p>
+<p align="left">- **Applied Machine Learning & Deep Learning systems**  <br>  From experimentation to end-to-end implementation<br>- **Generative AI solutions**  <br>  LLM-powered applications, AI assistants,RAG Applications , and knowledge-driven tools<br>- **Data-driven applications**  <br>  Tools that convert insights into actionable outcomes</p>
 
 ###
 
@@ -110,7 +110,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
 </div>
 
 ###
